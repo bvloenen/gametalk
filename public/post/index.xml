@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gametalk</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Gametalk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review: Kingdom Hearts 3</title>
+      <link>/post/kingdom-hearts-3/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kingdom-hearts-3/</guid>
+      <description>It’s been 14 years since we last joined Sora, Donald and Goofy on a full blown console adventure. The action rpg collaboration between Square Enix and Disney is back and better than ever.</description>
+    </item>
+    
+    <item>
+      <title>Capcom announces arcadestick including 40 games</title>
+      <link>/post/a-new-fighter-appears/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-new-fighter-appears/</guid>
+      <description>In a suprise announcement today, Capcom revealed an arcadestick including 40 games.</description>
+    </item>
+    
+  </channel>
+</rss>
